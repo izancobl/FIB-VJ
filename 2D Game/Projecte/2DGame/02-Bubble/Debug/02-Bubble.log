@@ -1,0 +1,50 @@
+﻿  Audio.cpp
+  Background.cpp
+  Boss.cpp
+  Credits.cpp
+  Enemy.cpp
+C:\Users\izanc\OneDrive\Escritorio\UNIVERSIDAD\Q7\VJ\Projecte\2DGame\02-Bubble\02-Bubble\Enemy.cpp(26,10): warning C4552: "!=": el resultado de la expresión no se usa
+  Enemy1.cpp
+  Enemy2.cpp
+C:\Users\izanc\OneDrive\Escritorio\UNIVERSIDAD\Q7\VJ\Projecte\2DGame\02-Bubble\02-Bubble\Enemy2.cpp(76,16): warning C4244: '-=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=int
+          ]
+  Enemy3.cpp
+  Enemy4.cpp
+C:\Users\izanc\OneDrive\Escritorio\UNIVERSIDAD\Q7\VJ\Projecte\2DGame\02-Bubble\02-Bubble\Enemy4.cpp(77,16): warning C4244: '-=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=int
+          ]
+  EnemyManager.cpp
+  Game.cpp
+  Gameover.cpp
+  Hearts.cpp
+  Instructions.cpp
+  main.cpp
+  Menu.cpp
+  Player.cpp
+  Points.cpp
+  Scene.cpp
+C:\Users\izanc\OneDrive\Escritorio\UNIVERSIDAD\Q7\VJ\Projecte\2DGame\02-Bubble\02-Bubble\Scene.cpp(68,29): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\izanc\OneDrive\Escritorio\UNIVERSIDAD\Q7\VJ\Projecte\2DGame\02-Bubble\02-Bubble\Scene.cpp(69,16): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\izanc\OneDrive\Escritorio\UNIVERSIDAD\Q7\VJ\Projecte\2DGame\02-Bubble\02-Bubble\Scene.cpp(70,35): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  Shader.cpp
+  Generando código...
+  Compilando...
+  ShaderProgram.cpp
+  Shot.cpp
+  ShotManager.cpp
+  Sprite.cpp
+  Texture.cpp
+  TileMap.cpp
+  Win.cpp
+  Generando código...
+  LINK : no se encontró C:\Users\izanc\OneDrive\Escritorio\UNIVERSIDAD\Q7\VJ\Projecte\2DGame\02-Bubble\Debug\02-Bubble.exe o no lo generó el último vínculo incremental; ejecutando vínculo completo
+SOIL.lib(image_DXT.obj) : warning LNK4099: no se encontró PDB 'vc100.pdb' con 'SOIL.lib(image_DXT.obj)' o en 'C:\Users\izanc\OneDrive\Escritorio\UNIVERSIDAD\Q7\VJ\Projecte\2DGame\02-Bubble\Debug\vc100.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+SOIL.lib(image_helper.obj) : warning LNK4099: no se encontró PDB 'vc100.pdb' con 'SOIL.lib(image_helper.obj)' o en 'C:\Users\izanc\OneDrive\Escritorio\UNIVERSIDAD\Q7\VJ\Projecte\2DGame\02-Bubble\Debug\vc100.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+SOIL.lib(SOIL.obj) : warning LNK4099: no se encontró PDB 'vc100.pdb' con 'SOIL.lib(SOIL.obj)' o en 'C:\Users\izanc\OneDrive\Escritorio\UNIVERSIDAD\Q7\VJ\Projecte\2DGame\02-Bubble\Debug\vc100.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: no se encontró PDB 'vc100.pdb' con 'SOIL.lib(stb_image_aug.obj)' o en 'C:\Users\izanc\OneDrive\Escritorio\UNIVERSIDAD\Q7\VJ\Projecte\2DGame\02-Bubble\Debug\vc100.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  02-Bubble.vcxproj -> C:\Users\izanc\OneDrive\Escritorio\UNIVERSIDAD\Q7\VJ\Projecte\2DGame\02-Bubble\Debug\02-Bubble.exe
